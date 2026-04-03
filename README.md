@@ -44,6 +44,29 @@ python terminal_buddy.py 2 "find all python files modified in the last 7 days"
 
 The application will present the generated command and prompt you for confirmation before execution.
 
+## Example Commands to Try
+
+**1. File Management**
+- Create a file: `"create a python file named app.py"`
+- Create a folder: `"make a directory called backups"`
+- Move files: `"move all .txt files to the backups folder"`
+- Rename: `"rename old_script.py to main.py"`
+
+**2. Searching & Finding**
+- Find specific files: `"find all javascript files in this folder"`
+- Find recent files: `"list all files modified in the last hour"`
+- Search inside files: `"search for the word 'database' in all python files"`
+
+**3. System Info & File Details**
+- Check file type: `"what kind of file is data.bin"`
+- Check disk space: `"how much free space is left on my drive"`
+- List with details: `"show me all files including hidden ones with their sizes"`
+
+**4. Developer Shortcuts**
+- Count lines: `"count how many lines of code are in main.py"`
+- Check Python version: `"check which version of python is currently active"`
+- Environment check: `"list all installed python packages"`
+
 ## Output Example
 
 ![Terminal Buddy Output](output.png)
