@@ -1,0 +1,9 @@
+python3 -m venv terminal_buddy_venv
+
+source terminal_buddy_venv/bin/activate
+
+
+pip install ...
+
+
+deactivate
